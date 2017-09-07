@@ -1,5 +1,5 @@
 # wangEditor-demo
-wangEditor demo  并实现express 图片上传功能
+wangEditor vue demo  并实现express 图片上传功能
 
 ## npm install 
   安装依赖
